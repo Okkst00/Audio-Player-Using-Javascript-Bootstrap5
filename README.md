@@ -1,5 +1,5 @@
 # Audio-Player-Using-Javascript-Bootstrap5
-Audio Player Using Javascript Bootstrap5
+Responsive Audio Player Using Javascript Bootstrap5
 
 
 
